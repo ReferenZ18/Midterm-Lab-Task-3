@@ -48,3 +48,12 @@
 ## Map
 
 <img src="images/Map.png" alt="Alt Text" Width="800" heigth="400">
+
+## Working Search Bar
+
+<img src="images/searchbar1.png" alt="Alt Text" Width="800" heigth="400">
+<br>
+<img src="images/searchbar2.png" alt="Alt Text" Width="800" heigth="400">
+<br>
+<img src="images/searchbar3.png" alt="Alt Text" Width="800" heigth="400">
+<br>
