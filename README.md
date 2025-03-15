@@ -44,3 +44,7 @@
 ## Sector by Size
 
 <img src="images/sal_by_size.png" alt="Alt Text" Width="800" heigth="400">
+
+## Map
+
+<img src="images/Map.png" alt="Alt Text" Width="800" heigth="400">
