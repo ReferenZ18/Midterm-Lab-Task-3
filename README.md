@@ -23,7 +23,7 @@
 
 ## Dashboard Image
 
-<img src="images/Dashboard.PNG" alt="Alt Text" Width="800" heigth="400">
+<img src="images/dashboard.png" alt="Alt Text" Width="800" heigth="400">
 
 ## Salary by Role
 
