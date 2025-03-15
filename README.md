@@ -18,7 +18,7 @@
 ## Step 3 
 - Create Necessary Pivot Tables & Charts
 - Use appropriate visualizations for reports
-- Insert Slicers for: Role Type, Company Size, State
+- Insert Slicers for: Role Type, Company Size, State.
 - Insert Map (Optional).
 
 ## Dashboard Image
